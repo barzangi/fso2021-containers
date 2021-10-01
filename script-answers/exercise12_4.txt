@@ -1,0 +1,10 @@
+Script started on 2021-09-24 20:07:21+04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="217" LINES="53"]
+]0;barzangi@mint-dell: ~/fso2020-part12/containers-apps/script-answers[01;32mbarzangi@mint-dell[00m:[01;34m~/fso2020-part12/containers-apps/script-answers[00m$ docker container start -i great_volhard
+]0;root@6559775ecf9b: /root@6559775ecf9b:/# [K]0;root@6559775ecf9b: /root@6559775ecf9b:/# node /usr/src/app/index.js
+Hello World
+]0;root@6559775ecf9b: /root@6559775ecf9b:/# [Kexit
+exit
+]0;barzangi@mint-dell: ~/fso2020-part12/containers-apps/script-answers[01;32mbarzangi@mint-dell[00m:[01;34m~/fso2020-part12/containers-apps/script-answers[00m$ exxit[K[K[Kt[Kit
+exit
+
+Script done on 2021-09-24 20:07:54+04:00 [COMMAND_EXIT_CODE="0"]
